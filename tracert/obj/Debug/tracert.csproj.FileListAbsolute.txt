@@ -1,0 +1,5 @@
+C:\Users\DASergeeva\Documents\CheckConnection-master\tracert\bin\Debug\tracert.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\tracert\bin\Debug\tracert.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\tracert\obj\Debug\tracert.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection-master\tracert\obj\Debug\tracert.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\tracert\obj\Debug\tracert.pdb

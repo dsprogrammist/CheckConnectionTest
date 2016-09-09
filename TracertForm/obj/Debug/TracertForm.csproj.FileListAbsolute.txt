@@ -1,0 +1,11 @@
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\bin\Debug\TracertForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\bin\Debug\TracertForm.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\bin\Debug\tracert.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\bin\Debug\tracert.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.MainForm.resources
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.PingForm.resources
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.Properties.Resources.resources
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.csproj.GenerateResource.Cache
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection-master\TracertForm\obj\Debug\TracertForm.pdb

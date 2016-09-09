@@ -1,0 +1,6 @@
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\bin\Debug\Common.dll.config
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\bin\Debug\Common.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\bin\Debug\Common.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\obj\Debug\Common.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\Common\obj\Debug\Common.pdb

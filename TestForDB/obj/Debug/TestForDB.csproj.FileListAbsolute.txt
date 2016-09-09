@@ -1,0 +1,15 @@
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\TestForDB.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\TestForDB.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\obj\Debug\TestForDB.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\obj\Debug\TestForDB.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\obj\Debug\TestForDB.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\CheckConnection.exe
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\Common.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\TracertForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\tracert.dll
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\CheckConnection.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\Common.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\TracertForm.pdb
+C:\Users\DASergeeva\Documents\CheckConnection-master\TestForDB\bin\Debug\tracert.pdb
